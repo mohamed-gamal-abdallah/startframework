@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    background-color:#1ABC9C ;
+}
+
+.line {
+    height: 4px;
+    width: 80px;
+}
+.w-15{
+    width: 15%;
+}

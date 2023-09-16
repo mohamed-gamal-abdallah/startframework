@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.line {
+    height: 4px;
+    width: 80px;
+}
+
+.iconz{
+    /* left:40%;
+    top: 30%; */
+display: none;
+background-color: rgba(1A, b9, 9e, alpha);
+background-color: #1ab99e4d;
+z-index: 11111;
+
+}
+.iconz2:hover .iconz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #1ab99ea1;
+}
